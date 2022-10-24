@@ -4,3 +4,7 @@ var c=a+b
 
 console.log(c)
 
+var d=1
+
+console.log(d);
+
