@@ -1,0 +1,25 @@
+{
+  "name": "testnpmproj1",
+  "version": "1.0.0",
+  "description": "Test NM project for myself",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandruhere4u/TestNodeJS1.git"
+  },
+  "author": "Chandru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Chandruhere4u/TestNodeJS1/issues"
+  },
+  "homepage": "https://github.com/Chandruhere4u/TestNodeJS1#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "jasmine-node": "^3.0.0"
+  }
+}
